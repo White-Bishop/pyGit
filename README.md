@@ -1,0 +1,1 @@
+This is a basic repository housing various programming projects, the code should be concise enough to decipher on its own and each program will have the overview commented. 
